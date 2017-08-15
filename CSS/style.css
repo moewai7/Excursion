@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, Georgia;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2{
+  font-size: 42px;
+}
+
+.dec {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+p {
+  color: Gray;
+  font-size: 21px;
+}
+
+.dec2 {
+  text-align: right;
+}
